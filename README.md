@@ -15,6 +15,7 @@ A static React Native mobile app to demonstrate understanding of the framework.
 5. Simulate event registration (static confirmation, no real data stored).
 
 ## Setup and Testing Instructions
+### PREREQUISITES: Node.js must be installed on your computer, Expo Go app needed for testing
 ### 1. Clone the Repository
 ```
 git clone https://github.com/ahrenagatep/csci-456-frontend-demo.git
