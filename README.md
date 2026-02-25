@@ -14,7 +14,7 @@ A static React Native mobile app to demonstrate understanding of the framework.
 4. Set up navigation between screens.
 5. Simulate event registration (static confirmation, no real data stored).
 
-## Setup Instructions
+## Setup and Testing Instructions
 ### 1. Clone the Repository
 ```
 git clone https://github.com/ahrenagatep/csci-456-frontend-demo.git
@@ -24,10 +24,8 @@ git clone https://github.com/ahrenagatep/csci-456-frontend-demo.git
 ```
 npm install
 ```
-
-## Testing Instructions
-### 1. Start Expo
+### 4. Start Expo
 ```
 npx expo start
 ```
-### 2. Scan the QR code using the Expo Go app!
+### 5. Scan the QR code using the Expo Go app!
