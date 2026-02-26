@@ -25,8 +25,12 @@ git clone https://github.com/ahrenagatep/csci-456-frontend-demo.git
 ```
 npm install
 ```
-### 4. Start Expo
+### 4. CD into the frontend folder
+```
+cd frontend
+```
+### 5. Start Expo
 ```
 npx expo start
 ```
-### 5. Scan the QR code using the Expo Go app!
+### 6. Scan the QR code using the Expo Go app!
